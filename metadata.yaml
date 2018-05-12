@@ -1,10 +1,16 @@
 _repo: The-History-and-Romance-of-Crime-German-and-Austrian-Prisons-Prisons-of-Prussia-Bavaria-Saxon__51065
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51065-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur George Frederick
     gutenberg_agent_id: '45210'
     url: http://www.gutenberg.org/2009/agents/45210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51065#The-History-and-Romance-of-Crime-German-and-Austrian-Prisons-Prisons-of-Prussia-Bavaria-Saxon_
 gutenberg_issued: '2016-01-28'
 gutenberg_type: Text
 identifiers:
